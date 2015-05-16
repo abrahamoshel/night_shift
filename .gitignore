@@ -19,7 +19,6 @@
 
 # Ignore secrets
 secrets.yml
-database.yml
 
 # Ignore ENV var files
 development
